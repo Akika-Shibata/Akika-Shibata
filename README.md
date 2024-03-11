@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Akika-Shibata/Akika-Shibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,4 +11,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I have manually translated from Japanese to English for years. I could never trust translation programmes, but now NLP has opened the whole world up with language processing!
--->
+
